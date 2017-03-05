@@ -1,4 +1,5 @@
 # flashcardsapp_converter
+Converter for backup files from Flash Cards App
 
 About:
 The mobile app Flash Cards App generates a xml file as a backup.
